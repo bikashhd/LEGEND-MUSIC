@@ -8,7 +8,7 @@
 
 -------------
 
-## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
+## [REPL](https://replit.com/bikashhd/PRO-LEGENDBOT#main.py)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
